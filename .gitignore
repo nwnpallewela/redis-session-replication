@@ -9,6 +9,7 @@
 *.ear
 *.iml
 .idea
+.idea/libraries
 .idea/vcs.xml
 .idea/*.xml
 target
